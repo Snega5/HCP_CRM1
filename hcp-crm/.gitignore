@@ -6,3 +6,10 @@ __pycache__/
 venv/
 .venv/
 .DS_Store
+.env.*
+!.env.example
+dist/
+.pytest_cache/
+*.db
+*.sqlite
+*.sqlite3
